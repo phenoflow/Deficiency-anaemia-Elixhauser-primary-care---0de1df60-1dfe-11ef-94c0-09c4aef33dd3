@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/pernicious-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-unspecified---primary.py
+inputModule4:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-folate---primary.py
+inputModule6:
+  class: File
+  path: python/other-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/folic-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-vitamin---primary.py
+inputModule9:
+  class: File
+  path: python/sideropenic-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-malabsorption---primary.py
+inputModule11:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-proteindeficiency---primary.py
+inputModule12:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-plummervinson---primary.py
+inputModule13:
+  class: File
+  path: python/dietary-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/deficiency-anaemia-elixhauser-primary-care-causes---primary.py
+inputModule15:
+  class: File
+  path: python/hypochromic-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/deficiency---primary.py
+inputModule17:
+  class: File
+  path: python/megaloblastic-deficiency-anaemia-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
